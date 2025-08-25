@@ -66,5 +66,37 @@ streamlit run app.py
 App Features:
 
 ✅ Input student details (hours studied, sleep hours, attendance)
+
 ✅ Predict Pass/Fail
+
 ✅ Display result interactively
+
+VISUALIZATION:
+
+📊 Pass vs Fail Distribution
+
+The bar chart shows the distribution of students who passed (1) and failed (0) the exam.
+
+Majority of students passed the exam.
+
+A smaller proportion of students failed.
+
+This visualization highlights the overall performance trend in the dataset.
+
+<img width="543" height="450" alt="image" src="https://github.com/user-attachments/assets/9fa4706d-68b2-48b6-a192-08544635dcc3" />
+
+📊 Feature Distributions
+
+The histograms show the distribution of key features in the dataset:
+
+Hours Studied: Most students studied between 7–10 hours, while fewer studied less than 3 hours.
+
+Sleep Hours: The majority of students sleep between 6–8 hours, with some outliers at 4–5 hours.
+
+Class Attendance: Attendance is spread across different ranges, with many students attending between 60–90% of classes.
+
+These distributions help in understanding the spread and variability of input features.
+
+<img width="835" height="565" alt="image" src="https://github.com/user-attachments/assets/3724dcb5-6c97-45a3-b34a-b2e55ee2b738" />
+
+
