@@ -1,3 +1,5 @@
+App Link:https://studentexamprediction-kh8gbzrjjm9bvafxywu7qp.streamlit.app/
+
 🎓 Student Exam Pass/Fail Prediction using Decision Tree
 
 This project demonstrates how to use a Decision Tree Classifier in Python to predict whether a student will Pass (1) or Fail (0) based on:
