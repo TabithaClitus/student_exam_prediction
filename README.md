@@ -99,4 +99,18 @@ These distributions help in understanding the spread and variability of input fe
 
 <img width="835" height="565" alt="image" src="https://github.com/user-attachments/assets/3724dcb5-6c97-45a3-b34a-b2e55ee2b738" />
 
+🔍 How It Works
+
+The model was trained using a Decision Tree Classifier on synthetic student performance data.
+
+The app takes user input (hours studied, sleep hours, attendance).
+
+It predicts whether the student will PASS ✅ or FAIL ❌.
+
+The prediction is displayed in a clean UI built with Streamlit.
+
+
+<img width="1261" height="841" alt="Studend exam prediction" src="https://github.com/user-attachments/assets/5710ed27-3fde-442e-9931-7d76e5379449" />
+
+
 
